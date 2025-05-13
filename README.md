@@ -6,4 +6,4 @@ I imported and loaded data then converted 'date' in sentiment_df to datetime. Th
 Then for analysis I did Average and Visualize Closed PnL by Sentiment and then Total Number of Trades per Sentiment, Average Trade Size (USD) per Sentiment.
 
 
-IN RESULTS I FOUND OUT THAT DURING "FEAR" THEY EARN MAX PROFIT AND DURING GREED MAXIMUM LOSS
+IN RESULTS I SAW THAT DURING "FEAR" THEY EARN MAX PROFIT AND DURING GREED MAXIMUM LOSS
